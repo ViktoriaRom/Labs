@@ -1,0 +1,15 @@
+H:\Labs\Для Вики C#\Lab2\bin\Debug\net6.0\Lab2.exe
+H:\Labs\Для Вики C#\Lab2\bin\Debug\net6.0\Lab2.deps.json
+H:\Labs\Для Вики C#\Lab2\bin\Debug\net6.0\Lab2.runtimeconfig.json
+H:\Labs\Для Вики C#\Lab2\bin\Debug\net6.0\Lab2.dll
+H:\Labs\Для Вики C#\Lab2\bin\Debug\net6.0\Lab2.pdb
+H:\Labs\Для Вики C#\Lab2\obj\Debug\net6.0\Lab2.csproj.AssemblyReference.cache
+H:\Labs\Для Вики C#\Lab2\obj\Debug\net6.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+H:\Labs\Для Вики C#\Lab2\obj\Debug\net6.0\Lab2.AssemblyInfoInputs.cache
+H:\Labs\Для Вики C#\Lab2\obj\Debug\net6.0\Lab2.AssemblyInfo.cs
+H:\Labs\Для Вики C#\Lab2\obj\Debug\net6.0\Lab2.csproj.CoreCompileInputs.cache
+H:\Labs\Для Вики C#\Lab2\obj\Debug\net6.0\Lab2.dll
+H:\Labs\Для Вики C#\Lab2\obj\Debug\net6.0\refint\Lab2.dll
+H:\Labs\Для Вики C#\Lab2\obj\Debug\net6.0\Lab2.pdb
+H:\Labs\Для Вики C#\Lab2\obj\Debug\net6.0\Lab2.genruntimeconfig.cache
+H:\Labs\Для Вики C#\Lab2\obj\Debug\net6.0\ref\Lab2.dll
