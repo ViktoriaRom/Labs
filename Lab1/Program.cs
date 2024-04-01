@@ -27,6 +27,3 @@ namespace Lab1
         }
     }
 }
-
-
-Ф
